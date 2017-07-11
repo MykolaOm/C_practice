@@ -11,6 +11,7 @@ P.S. not for C :)
 # Task 2
 
 // rollet .you have 1 div with class=span1. then you should input random number(let it be "Xnumber") from 1 to 10. it will create Xnumber of div's . and one of them(randomly is a secret one) when you click on every of them it shoul change background color. red - if false and green if you find secret number. 
+--------------------------------
 <head>
 		<title>dom</title>
 		<style>
